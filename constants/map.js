@@ -1,0 +1,2 @@
+const GOOGLE_APK_KEY= "AIzaSyDO9yDDGDEfzKlQt7AxVOG8PrRFe2v25Jc"
+export default GOOGLE_APK_KEY

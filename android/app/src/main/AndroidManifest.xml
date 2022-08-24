@@ -1,6 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="com.fooddelivery">
 
+
+   
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -23,9 +25,10 @@
         </intent-filter>
       </activity>
 
-       <meta-data
+      <meta-data
         android:name="com.google.android.geo.API_KEY"
         android:value="AIzaSyDO9yDDGDEfzKlQt7AxVOG8PrRFe2v25Jc"/>
+
 
     </application>
 </manifest>

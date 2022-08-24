@@ -1,5 +1,6 @@
 import React from "react";
 import {View,Text} from "react-native"
+import MapView from "react-native-maps";
 
 
 
@@ -10,6 +11,9 @@ const OrderDelivery = () =>{
         return(
             <View>
                
+               <MapView
+                style={{flex:1}}
+               />
                 
             </View>
         )
